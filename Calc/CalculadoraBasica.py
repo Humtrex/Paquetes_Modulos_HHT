@@ -1,4 +1,6 @@
 from Fundamentos import nuevoTema
+#Para no subir toda la carpeta de los proyectos 
+#hice una copia de fundamentos en la carpeta de paquetes
 import Operaciones as c
 
 nuevoTema("Modulos")
